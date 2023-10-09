@@ -1,0 +1,16 @@
+{
+    "adressen": [
+        {
+            "Name": "111",
+            "AESDatei": "111.aes",
+            "oeffentlicher_Key": "04621f586945410c34ad28ad1f29dc5260d26ec96975c09cff2f0d59f829fb1b5dfa0b42f2148f04795bd7fb6d647237a8dda5b10600ea1243b64a7a923f7726e0",
+            "Adresse": "moNnqh1NBpmBjaycpdVdXTNhvfqaYjo5tB"
+        },
+        {
+            "Name": "333",
+            "AESDatei": "333.aes",
+            "oeffentlicher_Key": "044cc542d6d9ed5f404e8cceded890dfb47aaee95d373d76ca78a619e86d15c1d5e0b470ef67fefe2eea6793e1661ee5ee5f0bfc8b446dc49925237adaa1ba1b90",
+            "Adresse": "mnQLKckPauL3f4KAgBSJ2EVTmQ6mhtUTJe"
+        }
+    ]
+}
